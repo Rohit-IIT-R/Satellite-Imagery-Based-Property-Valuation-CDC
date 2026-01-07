@@ -3,7 +3,7 @@
 ##  Project Overview
 This project leverages **Multimodal Machine Learning** to estimate property values. Unlike traditional models that rely solely on tabular data (square footage, bedrooms, year built), this approach integrates **satellite imagery embeddings** to capture "invisible" neighborhood features like green cover, road density, and urban layout.
 
-**Author:** Rohit  
+**Author:** Rohit Kumar 23119035
 **Affiliation:** IIT Roorkee  
 
 ---
@@ -25,3 +25,10 @@ This project leverages **Multimodal Machine Learning** to estimate property valu
 ---
 
 ##  Repository Structure
+├── data_fetcher.ipynb # Fetches satellite / external data
+├── preprocessing.ipynb # Data cleaning & feature engineering
+├── model_trained.ipynb # Final model 
+├── train.csv # Training dataset (public, small)
+├── test.csv # Test dataset (public, small)
+├── requirements.txt # Project dependencies
+└── README.md
