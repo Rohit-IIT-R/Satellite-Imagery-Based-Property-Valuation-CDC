@@ -1,6 +1,6 @@
-# Satellite Imagery-Based Property Valuation 🛰️🏠
+# Satellite Imagery-Based Property Valuation
 
-## 📌 Project Overview
+##  Project Overview
 This project leverages **Multimodal Machine Learning** to estimate property values. Unlike traditional models that rely solely on tabular data (square footage, bedrooms, year built), this approach integrates **satellite imagery embeddings** to capture "invisible" neighborhood features like green cover, road density, and urban layout.
 
 **Author:** Rohit  
@@ -8,7 +8,7 @@ This project leverages **Multimodal Machine Learning** to estimate property valu
 
 ---
 
-## 📊 Methodology
+##  Methodology
 
 ### 1. The Data
 * **Tabular Data:** 16,000+ records containing structural details (bedrooms, bathrooms, sqft, etc.).
@@ -24,4 +24,4 @@ This project leverages **Multimodal Machine Learning** to estimate property valu
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
