@@ -25,10 +25,10 @@ This project leverages **Multimodal Machine Learning** to estimate property valu
 ---
 
 ##  Repository Structure
-├── data_fetcher.ipynb # Fetches satellite / external data
-├── preprocessing.ipynb # Data cleaning & feature engineering
-├── model_trained.ipynb # Final model 
-├── train.csv # Training dataset (public, small)
-├── test.csv # Test dataset (public, small)
-├── requirements.txt # Project dependencies
-└── README.md
+* ├── data_fetcher.ipynb # Fetches satellite / external data
+* ├── preprocessing.ipynb # Data cleaning & feature engineering
+* ├── model_trained.ipynb # Final model 
+* ├── train.csv # Training dataset (public, small)
+* ├── test.csv # Test dataset (public, small)
+* ├── requirements.txt # Project dependencies
+* └── README.md
